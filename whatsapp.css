@@ -1,0 +1,16 @@
+.jumbotron
+{
+    text-align: center;
+    background: url("https://images.imyfone.com/en/images/2020/03/send-whatsapp-photos-to-email.jpg") center center / cover no-repeat;
+}
+#h1
+{
+    color:#F7F398;
+}
+#mark
+{
+    color:rgb(27, 3, 3);
+   
+    filter: contrast(1.75);
+    filter: drop-shadow(30px 10px 4px aqua);
+}
